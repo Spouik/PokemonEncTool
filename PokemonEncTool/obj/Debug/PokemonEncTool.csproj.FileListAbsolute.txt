@@ -1,0 +1,10 @@
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\bin\Debug\PokemonEncTool.exe.config
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\bin\Debug\PokemonEncTool.exe
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\bin\Debug\PokemonEncTool.pdb
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.csproj.AssemblyReference.cache
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.Form1.resources
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.Properties.Resources.resources
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.csproj.GenerateResource.cache
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.csproj.CoreCompileInputs.cache
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.exe
+C:\Users\kylian_durroux\Source\Repos\PokemonEncTool\PokemonEncTool\obj\Debug\PokemonEncTool.pdb
