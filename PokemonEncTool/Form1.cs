@@ -15,6 +15,7 @@ namespace PokemonEncTool
         public Form1()
         {
             InitializeComponent();
+            cbGameVer.DataSource = Enum.GetValues(typeof(GameVer));
         }
 
         private void button1_Click(object sender, EventArgs e)

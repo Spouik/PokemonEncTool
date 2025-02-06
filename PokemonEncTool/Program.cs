@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -8,12 +9,28 @@ namespace PokemonEncTool
 {
     public enum GameVer : byte
     {
-        None = 0, // 
-        Diamond,  // Pokémon Diamond
-        Pearl,    // Pokémon Pearl
-        Platinum, // Pokémon Platinum
-        Gold2,    // Pokémon HeartGold
-        Silver2   // Pokémon SoulSilver
+        None = 0,      // 
+        /*RedJP,         // Pocket Monsters Aka
+        GreenJP,       // Pocket Monsters Midori
+        BlueJP,        // Pocket Monsters Ao
+        Red,           // Pokémon Red
+        Blue,          // Pokémon Blue
+        Yellow,        // Pokémon Yellow
+        Gold,          // Pokémon Gold
+        Silver,        // Pokémon Silver
+        Crystal,       // Pokémon Crystal
+        Ruby,          // Pokémon Ruby
+        Sapphire,      // Pokémon Sapphire
+        Red2,          // Pokémon FireRed
+        Green2,        // Pokémon LeafGreen
+        Emerald,       // Pokémon Emerald
+        ColoGC,        // Pokémon Colosseum
+        XDGC,          // Pokémon XD : Gale of Darkness*/
+        Diamond = 17,  // Pokémon Diamond
+        Pearl,         // Pokémon Pearl
+        Platinum,      // Pokémon Platinum
+        Gold2,         // Pokémon HeartGold
+        Silver2        // Pokémon SoulSilver
     }
     public enum Language : byte
     {
