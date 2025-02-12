@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PokemonEncTool")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ensto")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PokemonEncTool")]
-[assembly: AssemblyCopyright("Copyright © Ensto 2025")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

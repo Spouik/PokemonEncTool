@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\pokemonenctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|c:\\users\\kylian_durroux\\source\\repos\\pokemonenctool\\pokemonenctool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\pokemonenctool\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556D4EC9-35D2-45BF-872D-AE1AD0519CF5}|PokemonEncTool\\PokemonEncTool.csproj|solutionrelative:pokemonenctool\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,18 +41,39 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PokemonEncTool\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PokemonEncTool\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:03:58.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "PokemonEncTool\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\Properties\\Resources.resx",
+              "RelativeToolTip": "PokemonEncTool\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-12T10:12:37.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\MainPage.Designer.cs",
               "RelativeDocumentMoniker": "PokemonEncTool\\MainPage.Designer.cs",
-              "ToolTip": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\MainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\MainPage.Designer.cs",
               "RelativeToolTip": "PokemonEncTool\\MainPage.Designer.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T15:05:27.121Z",
               "EditorCaption": ""
@@ -57,31 +86,31 @@
               "RelativeDocumentMoniker": "PokemonEncTool\\Program.cs",
               "ToolTip": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\Program.cs",
               "RelativeToolTip": "PokemonEncTool\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T12:27:54.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs",
               "RelativeDocumentMoniker": "PokemonEncTool\\MainPage.cs",
-              "ToolTip": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs",
+              "ToolTip": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs",
               "RelativeToolTip": "PokemonEncTool\\MainPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T12:08:25.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs",
               "RelativeDocumentMoniker": "PokemonEncTool\\MainPage.cs",
-              "ToolTip": "C:\\Users\\kylian_durroux\\Source\\Repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs [Design]",
+              "ToolTip": "C:\\Users\\kylian_durroux\\source\\repos\\PokemonEncTool\\PokemonEncTool\\MainPage.cs [Design]",
               "RelativeToolTip": "PokemonEncTool\\MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T12:08:21.332Z",

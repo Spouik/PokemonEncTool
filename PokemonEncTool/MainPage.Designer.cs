@@ -31,6 +31,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.cbGameVer = new System.Windows.Forms.ComboBox();
             this.cbLang = new System.Windows.Forms.ComboBox();
+            this.lblTestGameVer = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -51,6 +52,7 @@
             this.cbGameVer.Name = "cbGameVer";
             this.cbGameVer.Size = new System.Drawing.Size(121, 21);
             this.cbGameVer.TabIndex = 1;
+            this.cbGameVer.SelectedIndexChanged += new System.EventHandler(this.cbGameVer_SelectedIndexChanged);
             // 
             // cbLang
             // 
@@ -61,17 +63,28 @@
             this.cbLang.Size = new System.Drawing.Size(121, 21);
             this.cbLang.TabIndex = 2;
             // 
-            // mainPage
+            // lblTestGameVer
+            // 
+            this.lblTestGameVer.AutoSize = true;
+            this.lblTestGameVer.Location = new System.Drawing.Point(449, 315);
+            this.lblTestGameVer.Name = "lblTestGameVer";
+            this.lblTestGameVer.Size = new System.Drawing.Size(22, 13);
+            this.lblTestGameVer.TabIndex = 3;
+            this.lblTestGameVer.Text = "- - -";
+            // 
+            // MainPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblTestGameVer);
             this.Controls.Add(this.cbLang);
             this.Controls.Add(this.cbGameVer);
             this.Controls.Add(this.button1);
-            this.Name = "mainPage";
+            this.Name = "MainPage";
             this.Text = "Pokémon Encounter Tool 0.1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -80,6 +93,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ComboBox cbGameVer;
         private System.Windows.Forms.ComboBox cbLang;
+        private System.Windows.Forms.Label lblTestGameVer;
     }
 }
 

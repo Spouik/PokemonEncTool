@@ -10,7 +10,7 @@ namespace PokemonEncTool
     public enum GameVer : byte
     {
         None = 0,      // 
-        /*RedJP,         // Pocket Monsters Aka
+        /*RedJP,       // Pocket Monsters Aka
         GreenJP,       // Pocket Monsters Midori
         BlueJP,        // Pocket Monsters Ao
         Red,           // Pokémon Red
@@ -31,6 +31,28 @@ namespace PokemonEncTool
         Platinum,      // Pokémon Platinum
         Gold2,         // Pokémon HeartGold
         Silver2        // Pokémon SoulSilver
+        /*Black,       // Pokémon Black
+        White,         // Pokémon White
+        Black2,        // Pokémon Black 2
+        White2,        // Pokémon White 2
+        X,             // Pokémon X
+        Y,             // Pokémon Y
+        Ruby2,         // Pokémon Omega Ruby
+        Sapphire2,     // Pokémon Alpha Sapphire
+        Sun,           // Pokémon Sun
+        Moon,          // Pokémon Moon
+        Sun2,          // Pokémon Ultra Sun
+        Moon2,         // Pokémon Ultra Moon
+        LGPikachu,     // Pokémon Let's Go Pikachu
+        LGEevee,       // Pokémon Let's Go Eevee
+        Sword,         // Pokémon Sword
+        Shield,        // Pokémon Shield
+        Diamond2,      // Pokémon Brilliant Diamond
+        Pearl2,        // Pokémon Shining Pearl
+        PLArceus,      // Pokémon Legends : Arceus
+        Scarlet,       // Pokémon Scarlet
+        Violet,        // Pokémon Violet
+        LPZA           // Pokémon Legends : Z-A*/
     }
     public enum Language : byte
     {
@@ -38,7 +60,7 @@ namespace PokemonEncTool
         English,  // 
         French    //
     }
-    public enum LeadAbility : byte
+    public enum Ability : byte
     {
         None = 0,     //
         Static,       // Static + Lightning Rod (GEN 8)
